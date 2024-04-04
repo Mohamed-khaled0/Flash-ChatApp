@@ -20,7 +20,6 @@ Flash Chat is a lightweight messaging application designed to facilitate quick a
 - 🎨 **UIKit, Storyboard, Auto Layout:** Utilize UIKit framework for building the user interface, designing layouts, and implementing auto layout constraints.
 - 💾 **Firebase Firestore:** Store and retrieve messages from a cloud-based database using Firebase Firestore, ensuring real-time synchronization across devices.
 - 📦 **CocoaPods:** Manage project dependencies and integrate external libraries such as CLTypingLabel for dynamic typing animation. 
-- Swift Package Manger : Manage project dependencies and integrate external libraries such as Firebase and IQ Keyboard Manger 
 - 🔗 **Git, GitHub:** Version control system for tracking project changes and collaborating with team members.
 - **Design Patterns:** Implement Model-View-Controller (MVC) design pattern for separating concerns and organizing codebase efficiently.
 
